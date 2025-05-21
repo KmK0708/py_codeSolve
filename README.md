@@ -5,4 +5,5 @@
 
 ## 내장함수
 파이썬 set,dict,list,tuple의 내장함수 리스트모음집
+https://github.com/KmK0708/py_codeSolve/tree/master/py_task/%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98
 
