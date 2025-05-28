@@ -23,4 +23,11 @@ def solution(n, k):
     return allpaid
 
 print(solution(10, 3))  # 양꼬치 10인분, 음료수 3개 → 124,000원
-print(solution(64, 6))  # 양꼬치 64인분, 음료수 6개 → 768,000원
+
+
+# 단축버전
+def solution2(n, k):
+    #꼬치값 12000원 꼬치개수 = n , 음료값 2000원 음료 1캔 = k
+    return (12000 * n) + (k * 2000) - (n//10*2000)
+
+print(solution2(64, 6))  # 양꼬치 64인분, 음료수 6개 → 768,000원
