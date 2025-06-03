@@ -4,7 +4,7 @@ Python을 공부하며 문제를 풀어 정리한 모음집.
 기초 문법부터 다양한 알고리즘 문제
 
 ## Stack, Queue, Deque
-
+[스택문제](https://github.com/KmK0708/py_codeSolve/tree/master/Algorithm/%EC%8A%A4%ED%83%9D)
 
 ## 내장함수
 파이썬 set,dict,list,tuple의 내장함수 리스트모음집
