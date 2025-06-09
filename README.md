@@ -5,7 +5,7 @@ Python을 공부하며 문제를 풀어 정리한 모음집.
 
 ## Algorithm
 알고리즘 관련 문제 풀이 모음집<br>
-stack, queue, deque<br>
+stack, queue, deque 등 자료구조 예제<br>
 [알고리즘](Algorithm/Algo.md)
 
 ## 내장함수
