@@ -1,3 +1,5 @@
+# [자료구조 정리](https://gold-century-3b0.notion.site/40-04-28-8-1e33bfade9328080b657d55a031adcde)
+
 ## Stack
 LIFO (Last In, First Out) 구조로 가장 나중에 들어간 데이터가 가장 먼저 나옵니다<br>
 list를 사용하여 append()로 추가, pop()으로 제거하거나 collections.deque를 사용할 수 있습니다<br>
