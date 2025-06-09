@@ -8,3 +8,4 @@ def solution(q, r, code):
     return answer
 codes = "rlawndud"
 print(solution(3,1,codes))
+
