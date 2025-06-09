@@ -6,7 +6,7 @@ Python을 공부하며 문제를 풀어 정리한 모음집.
 ## Algorithm
 알고리즘 관련 문제 풀이 모음집<br>
 stack, queue, deque<br>
-[Algorithm](Algorithm/Algo.md)
+[알고리즘](Algorithm/Algo.md)
 
 ## 내장함수
 파이썬 set,dict,list,tuple의 내장함수 리스트모음집
